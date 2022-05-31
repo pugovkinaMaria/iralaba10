@@ -1,5 +1,5 @@
 '''
-Лабораторная работа 10
+Лабораторная работа, 10
 '''
 import matplotlib.pyplot as plt
 import pandas as pd
